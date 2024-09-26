@@ -1,19 +1,19 @@
 document.addEventListener('DOMContentLoaded', function() {
 const timelineData = [
     {
-        date: 'Feb 2022 - Present',
-        title: 'Chief Bug Creator',
-        description: 'At Innovative Solutions Inc., I excel in generating creative and elusive bugs to keep our testing team busy and entertained. Regularly praised for crafting bugs that evade detection and defy logic.'
+        date: '2024',
+        title: ' Hand Gesture Detection System ',
+        description: 'Developed a real-time hand gesture recognition system utilizing OpenCV,Python, and Media Pipe. Captured webcam frames, detected hand keypoints, and applied a pre-trained gesture recognizer to achieve precise identification of gestures such as waving, pointing, and more. This project significantly advanced human-computer interaction capabilities, enhancing accessibility and usability'
     },
     {
-        date: 'Aug 2019 - Jan 2022',
-        title: 'Freelance Sarcasm Specialist',
-        description: 'Offered a wide range of sarcasm consulting services. Helped clients understand the fine line between a hilarious email and an HR issue.'
+        date: '2024',
+        title: 'Powerof2 Website using AWS services',
+        description: 'Deployed a static website on the Aws Amplify which uses DynamoDB to store the math results and the function of the website is to return power of 2.Other services used are Lambda, IAM, API Gateway and DynamoDB.'
     },
     {
-        date: 'May 2017 - Jul 2019',
-        title: 'Amateur Coffee Brewer',
-        description: 'Worked at JavaGenius, a tech startup where the code was less important than the coffee. Received the "Caffeine Innovator" award for my cold brew technique that kept coders awake for 72 hours straight.'
+        date: '2023',
+        title: 'Vehicle Number Plate Detection Using Open CV ',
+        description: 'Designed and implemented a cutting-edge computer vision system leveraging OpenCV and Easy OCR. This system achieved real-time vehicle classification and counting, significantly reducing manual data collection efforts in traffic monitoring while enhancing data accuracy'
     }
 ];
 
